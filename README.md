@@ -17,7 +17,10 @@ SO THAT I can organize and plan my business
 
 ## Mock-Up
 
-The following video shows an example of the application being used from the command line:
+The following screenshot shows an example of the application being used from the command line:
 
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./Assets/1.png)](https://2u-20.wistia.com/medias/2lnle7xnpk)
+(./Assets/1.png)
+
+## Demo Video Link
+
 
