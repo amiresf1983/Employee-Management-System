@@ -25,5 +25,5 @@ The following screenshot shows an example of the application being used from the
 (./Assets/1.png)
 
 ## Demo Video Link
-
+https://drive.google.com/file/d/1umhCoc5la2o8kni4JwT1_BYR9GEBMior/view
 
