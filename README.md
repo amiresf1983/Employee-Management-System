@@ -22,7 +22,7 @@ SO THAT I can organize and plan my business
 
 The following screenshot shows an example of the application being used from the command line:
 
-(./Assets/1.png)
+(./Assets/screenshot.png)
 
 ## Demo Video Link
 https://drive.google.com/file/d/1umhCoc5la2o8kni4JwT1_BYR9GEBMior/view
