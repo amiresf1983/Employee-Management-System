@@ -22,7 +22,7 @@ SO THAT I can organize and plan my business
 
 The following screenshot shows an example of the application being used from the command line:
 
-[![screenshot](./asset/screenshot.png)]
+![screenshot](./asset/screenshot.png)
 
 
 ## Demo Video Link
